@@ -1,0 +1,1 @@
+exec java -jar Arith-1.0-SNAPSHOT.jar "$@"
