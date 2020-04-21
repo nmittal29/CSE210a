@@ -1,9 +1,9 @@
-Language Used for HW1: Java 
+Language Used for HW1: Java <br/>
 Language Used for HW2: Python 
 
 I worked independently for 14 hours on this assignment.
 
-The code already contains the executable while.py file. To execute the program, program arguments have to be given in double quotes. 
+The code already contains the executable while.py file. To execute the program, program arguments have to be given in double quotes. <br/> 
 For example: ./while.py "x := 1"
 
 My while interpreter implementation can handle:
@@ -25,5 +25,5 @@ Changes I made:
     echo "$1 = $2, your code outputs $output"
     [ "$output" = "$2" ]
     
-Created mytests.bats file in tests folder to run my tests.
+Created mytests.bats file in tests folder to run my tests. <br/>
 Code Link: https://github.com/nmittal29/CSE210a/tree/master/HW2
